@@ -1,0 +1,22 @@
+{
+  "name": "account-activated-function",
+  "version": "1.0.0",
+  "description": "AWS Lambda Function for handling account activated event",
+  "main": "index.js",
+  "dependencies": {
+    "traverson": "^3.2.0",
+    "traverson-hal": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/event-stream-processing-microservices/account-activated-function.git"
+  },
+  "author": "kbastani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/event-stream-processing-microservices/account-activated-function/issues"
+  },
+  "homepage": "https://github.com/event-stream-processing-microservices/account-activated-function#readme"
+}
